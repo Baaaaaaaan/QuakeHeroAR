@@ -6,8 +6,38 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Menu/Title Screen.unity
+    guid: ef28b80f7f9b69a48a442db7b3c67301
+  - enabled: 1
+    path: Assets/Scenes/Menu/Username.unity
+    guid: b51915debad027144bdf8bbb3c28bc7b
+  - enabled: 1
+    path: Assets/Scenes/Menu/Character Selection.unity
+    guid: 9677c5200ba02af49825141ea0c07a04
+  - enabled: 1
+    path: Assets/Scenes/Menu/Terms and conditions.unity
+    guid: 3980ec0ffef28be43941af3d717f5c63
+  - enabled: 1
+    path: Assets/Scenes/Menu/Main Menu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Menu/Avatar.unity
+    guid: 3c02c2a211ffd0d4ba28291221233912
+  - enabled: 1
+    path: Assets/Scenes/Menu/Environment Selection.unity
+    guid: 397af9b2f7fefda42aa5db83b7c91745
+  - enabled: 1
+    path: Assets/Scenes/Menu/RoomSelectionHouse.unity
+    guid: 1a3af7813a929db449ea053e2c4c5d92
+  - enabled: 1
+    path: Assets/Scenes/Menu/RoomSelectionSchool.unity
+    guid: bc2724833440ccf448cba8fe8f4fd714
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/House/Bedroom.unity
+    guid: f2b731d6b49f6044c9f1e73e3346a5bd
+  - enabled: 1
+    path: Assets/Scenes/Gameplay/House/Kitchen.unity
+    guid: 48fa2cf15fc689448a779077057162b1
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e899cf3e994a19f42900012cc27487c9, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 41b8d9551faf3c74d8543048ba00040a, type: 2}
